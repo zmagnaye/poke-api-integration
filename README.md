@@ -1,5 +1,5 @@
 # Pokemon Search
-A simple site that fetrches and displays Pokemon name, image, and type using the PokeAPI.
+A simple site that fetches and displays Pokemon name, image, and type using the PokeAPI.
 
 ## Features
 - Search by Pokemon name
